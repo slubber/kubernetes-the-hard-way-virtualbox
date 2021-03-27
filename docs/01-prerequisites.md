@@ -1,4 +1,5 @@
-# Prerequisites
+# Prerequisites OPTION A 
+
 
 ## VirtualBox
 
@@ -19,4 +20,13 @@ Installing the 'vagrant-hosts' plugin. This can take a few minutes...
 Installed the plugin 'vagrant-hosts (2.8.0)'!
 ```
 
+# Prerequisites OPTION B 
+
+## Install cluster with vagrant and Virtualbox
+
+https://jimmysongio.medium.com/setting-up-a-kubernetes-cluster-with-vagrant-and-virtualbox-3bb854017b60
+
+
+
 Next: [Installing the Client Tools](02-client-tools.md)
+
